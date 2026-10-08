@@ -1,0 +1,2 @@
+.app { min-height: 100vh; display: flex; flex-direction: column; }
+.conteudo { width: 100%; max-width: 1100px; margin: 0 auto; padding: 24px 16px 48px; }

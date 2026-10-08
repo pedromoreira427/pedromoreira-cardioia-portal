@@ -1,0 +1,4 @@
+.badge { font-size: 0.75rem; font-weight: 600; padding: 3px 10px; border-radius: 999px; white-space: nowrap; }
+.baixo { background: #e3f5ec; color: var(--ok); }
+.moderado { background: #fff4d6; color: var(--warn); }
+.alto { background: #fdecea; color: var(--primary); }

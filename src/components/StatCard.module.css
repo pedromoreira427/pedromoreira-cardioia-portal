@@ -1,0 +1,5 @@
+.card { background: var(--card); border: 1px solid var(--border); border-radius: var(--radius); padding: 18px; box-shadow: var(--shadow); display: flex; flex-direction: column; gap: 4px; }
+.titulo { color: var(--muted); font-size: 0.9rem; }
+.valor { font-size: 2rem; line-height: 1.1; }
+.detalhe { color: var(--muted); font-size: 0.8rem; }
+.destaque .valor { color: var(--primary); }

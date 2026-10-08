@@ -1,0 +1,12 @@
+.duasColunas { display: grid; gap: 0 20px; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); }
+.barraLinha { display: grid; grid-template-columns: 80px 1fr 32px; align-items: center; gap: 10px; margin: 12px 0; }
+.rotulo { text-transform: capitalize; color: var(--muted); }
+.trilho { background: var(--bg); border-radius: 999px; height: 12px; overflow: hidden; }
+.barra { height: 100%; border-radius: 999px; transition: width 0.4s; }
+.baixo { background: var(--ok); }
+.moderado { background: var(--warn); }
+.alto { background: var(--primary); }
+.lista { list-style: none; padding: 0; margin: 0; }
+.lista li { display: flex; flex-direction: column; padding: 10px 0; border-bottom: 1px solid var(--border); }
+.lista li:last-child { border-bottom: none; }
+.lista span { color: var(--muted); font-size: 0.9rem; }

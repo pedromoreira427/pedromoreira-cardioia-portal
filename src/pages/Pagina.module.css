@@ -1,0 +1,10 @@
+.cabecalho { margin-bottom: 20px; }
+.cabecalho p { color: var(--muted); margin: 0; }
+.grade { display: grid; gap: 16px; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); }
+.secao { background: var(--card); border: 1px solid var(--border); border-radius: var(--radius); padding: 20px; box-shadow: var(--shadow); margin-top: 20px; }
+.filtros { display: flex; flex-wrap: wrap; gap: 12px; margin-bottom: 16px; }
+.filtros input, .filtros select { padding: 9px 12px; border: 1px solid var(--border); border-radius: 8px; background: var(--card); }
+.filtros input { flex: 1 1 220px; }
+.vazio { color: var(--muted); }
+.erro { color: var(--primary); }
+.fonte { font-size: 0.8rem; color: var(--muted); }

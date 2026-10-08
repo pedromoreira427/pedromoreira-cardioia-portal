@@ -1,0 +1,18 @@
+.layout { display: grid; gap: 0 20px; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); align-items: start; }
+.layout > * { margin-top: 0; }
+.campo { display: flex; flex-direction: column; gap: 6px; margin-bottom: 14px; font-weight: 500; font-size: 0.9rem; flex: 1; }
+.campo input, .campo select, .campo textarea { padding: 9px 12px; border: 1px solid var(--border); border-radius: 8px; background: var(--card); }
+.linha { display: flex; gap: 12px; flex-wrap: wrap; }
+.erro { color: var(--primary); font-weight: 400; }
+.botao { width: 100%; background: var(--primary); color: #fff; border: none; padding: 12px; border-radius: 8px; font-weight: 600; cursor: pointer; }
+.botao:hover { background: var(--primary-dark); }
+.sucesso { color: var(--ok); background: #e3f5ec; padding: 8px 12px; border-radius: 8px; }
+.lista { list-style: none; padding: 0; margin: 0; }
+.lista li { display: flex; justify-content: space-between; align-items: center; gap: 12px; padding: 12px 0; border-bottom: 1px solid var(--border); }
+.lista li:last-child { border-bottom: none; }
+.lista li div { display: flex; flex-direction: column; }
+.lista span, .lista em { color: var(--muted); font-size: 0.85rem; }
+.lista button { background: none; border: 1px solid var(--border); border-radius: 8px; padding: 6px 10px; cursor: pointer; }
+.lista button:hover { border-color: var(--primary); color: var(--primary); }
+.cancelada { opacity: 0.5; }
+.cancelada strong { text-decoration: line-through; }

@@ -1,0 +1,8 @@
+.card { background: var(--card); border: 1px solid var(--border); border-radius: var(--radius); padding: 16px; box-shadow: var(--shadow); display: flex; flex-direction: column; gap: 8px; }
+.topo { display: flex; justify-content: space-between; align-items: flex-start; gap: 8px; }
+.topo h3 { font-size: 1.05rem; margin: 0; }
+.condicao { margin: 0; color: var(--muted); font-size: 0.9rem; }
+.dados { display: grid; grid-template-columns: repeat(2, 1fr); gap: 6px 12px; margin: 0; }
+.dados dt { font-size: 0.75rem; color: var(--muted); }
+.dados dd { margin: 0; font-weight: 600; }
+.contato { font-size: 0.8rem; color: var(--muted); border-top: 1px solid var(--border); padding-top: 8px; overflow-wrap: anywhere; }

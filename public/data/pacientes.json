@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Ana Souza",
+    "email": "ana@email.com",
+    "phone": "(62) 99000-1000",
+    "address": {
+      "city": "Goiânia"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Bruno Lima",
+    "email": "bruno@email.com",
+    "phone": "(62) 99111-1037",
+    "address": {
+      "city": "Anápolis"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Carla Mendes",
+    "email": "carla@email.com",
+    "phone": "(62) 99222-1074",
+    "address": {
+      "city": "Aparecida de Goiânia"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Diego Rocha",
+    "email": "diego@email.com",
+    "phone": "(62) 99333-1111",
+    "address": {
+      "city": "Brasília"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Elaine Costa",
+    "email": "elaine@email.com",
+    "phone": "(62) 99444-1148",
+    "address": {
+      "city": "Rio Verde"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Fábio Martins",
+    "email": "fábio@email.com",
+    "phone": "(62) 99555-1185",
+    "address": {
+      "city": "Goiânia"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Gabriela Alves",
+    "email": "gabriela@email.com",
+    "phone": "(62) 99666-1222",
+    "address": {
+      "city": "Trindade"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Henrique Dias",
+    "email": "henrique@email.com",
+    "phone": "(62) 99777-1259",
+    "address": {
+      "city": "Senador Canedo"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Isabela Nunes",
+    "email": "isabela@email.com",
+    "phone": "(62) 99888-1296",
+    "address": {
+      "city": "Goiânia"
+    }
+  },
+  {
+    "id": 10,
+    "name": "João Pereira",
+    "email": "joão@email.com",
+    "phone": "(62) 99999-1333",
+    "address": {
+      "city": "Catalão"
+    }
+  }
+]
