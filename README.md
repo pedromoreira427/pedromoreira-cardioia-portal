@@ -56,7 +56,9 @@ public/data/pacientes.json   # base local usada se a API estiver fora do ar
 
 ## 🔧 Instalação e execução
 
-Precisa do [Node.js](https://nodejs.org/) 20 ou superior.
+**Sem instalar nada:** [abrir no StackBlitz](https://stackblitz.com/github/pedromoreira427/pedromoreira-cardioia-portal) (roda no navegador).
+
+**Local:** precisa do [Node.js](https://nodejs.org/) 20 ou superior.
 
 ```bash
 git clone https://github.com/pedromoreira427/pedromoreira-cardioia-portal.git
